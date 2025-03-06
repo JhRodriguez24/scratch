@@ -2,4 +2,6 @@ qdfssdfsdq
 
 Modified 
 
-Modified step 3 conflict branch
+
+Modified as part of resolving conflicts step 3.
+
